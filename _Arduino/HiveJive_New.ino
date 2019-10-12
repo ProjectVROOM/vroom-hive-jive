@@ -82,6 +82,7 @@ void loop()
         delay(50);
         setMotorSpeed(1500);
         delay(50);
+        setMotorSpeed(0);
       } 
     }
   }
